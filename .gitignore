@@ -1,0 +1,9 @@
+# secrets — never commit
+.hmac-secret
+agent-secret.json
+.env
+
+# runtime
+node_modules/
+*.log
+.write-lock
